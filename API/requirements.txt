@@ -1,0 +1,7 @@
+darts==0.23.1
+Flask
+python-bcb
+waitress
+fredapi
+retry
+azure-datalake-store

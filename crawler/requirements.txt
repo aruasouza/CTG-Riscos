@@ -1,0 +1,6 @@
+selenium
+azure-datalake-store
+azure-mgmt-resource
+azure-mgmt-datalake-store
+pandas
+openpyxl

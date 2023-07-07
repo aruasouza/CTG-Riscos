@@ -1,0 +1,12 @@
+retry
+pyinstaller
+ttkthemes
+matplotlib
+azure-mgmt-datalake-store
+azure-mgmt-resource
+azure-datalake-store
+fredapi
+python-bcb
+numpy
+pandas
+openpyxl
